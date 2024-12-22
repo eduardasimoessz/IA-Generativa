@@ -6,3 +6,4 @@ Para este desafio, o arquivo [Tenha foco! (1).pdf](https://github.com/eduardasim
 
 ## Entrega de Desafio -  Crie um Podcast
 
+Projeto criado pelo Notion (https://www.notion.so/PdE-Podcast-de-Estudo-1641abd8e6bc809ba022d26bd212c903)
